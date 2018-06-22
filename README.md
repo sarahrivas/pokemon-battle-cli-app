@@ -7,11 +7,11 @@ Pokemon Battle is an interactive CLI game that allows you to choose and battle a
 In order to play:
 1. Enter into the correct directory where the game is located.
 2. Run bundle install in your terminal. If you are having issues with installing Rmagick, the following steps should help you complete the installation:
-  a. brew uninstall imagemagick
-  b. brew install imagemagick@6
-  c. export PATH="/usr/local/opt/imagemagick@6/bin:$PATH"
-  d. brew link --force imagemagick@6
-  e. gem install rmagick
+  1. brew uninstall imagemagick
+  2. brew install imagemagick@6
+  3. export PATH="/usr/local/opt/imagemagick@6/bin:$PATH"
+  4. brew link --force imagemagick@6
+  5. gem install rmagick
 3. Run rake db:seed in your terminal.
 4. In your terminal, run ruby bin/run.rb
 
