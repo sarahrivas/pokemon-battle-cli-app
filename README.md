@@ -27,16 +27,8 @@ In order to play:
 
 #LICENSE
 Pokemon Battle is a an interactive CLI game that allows you to choose a Pokemon and battle others.
-    Copyright (C) June 20, 2018 Sandy Edwards, Changmin Lim, Sarah Rivas.
+    Copyright (C) June 20, 2018 Sandy Edwards, Changmin Lim, Sarah Rivas. 
     
-    This porgram is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License 
-
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU Affero General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
-
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU Affero General Public License for more details.
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or at your option any later version. This program is distributed in the hope that it will be useful WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details. 
+    
+ 
